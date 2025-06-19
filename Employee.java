@@ -12,7 +12,12 @@ public class Employee implements Cloneable {
         System.out.println(e3.equals(e4)); //false
         System.out.println(e3 == e4); //false
 
-        System.out.println(e1); //Employee@6ce253f1
+        Employee e5 = e4;
+
+        System.out.println(e4.equals(e5)); // true
+        System.out.println(e4 == e5); // true
+
+        System.out.println(e1); // Employee@6ce253f1
         System.out.println(e2); // Employee@53d8d10a
         System.out.println(e3); // Employee@e9e54c2
         System.out.println(e4); // Employee@65ab7765
