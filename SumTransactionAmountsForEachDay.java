@@ -17,6 +17,8 @@ public class SumTransactionAmountsForEachDay {
                         Collectors.summingInt(Transaction::getAmount)));
         System.out.println(map);
         // {2022-01-03=500, 2022-01-01=300, 2022-01-02=700}
+
+        map.forEach((k, v) -> System.out.println(k+ " : " +v));
     }
 }
 
