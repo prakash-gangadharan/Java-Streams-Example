@@ -1,10 +1,10 @@
-package com.streams.lambda.example;
+package com.java.learn;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class SimpleLambdaExample {
+public class SimpleRunnableExample {
 
     public static void main(String[] args) {
         //Simple Runnable Example

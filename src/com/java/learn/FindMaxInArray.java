@@ -1,3 +1,5 @@
+package com.java.learn;
+
 public class FindMaxInArray {
 
     public static int max(int[] arr) {

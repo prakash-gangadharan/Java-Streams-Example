@@ -1,3 +1,5 @@
+package com.java.learn;
+
 public class FindMinInArray {
     public static int min(int[] arr) {
         if(arr == null || arr.length < 2){

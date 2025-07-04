@@ -1,3 +1,5 @@
+package com.java.learn;
+
 import java.util.*;
 import java.util.stream.*;
 
