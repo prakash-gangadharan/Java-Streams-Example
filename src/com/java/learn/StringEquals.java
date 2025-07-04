@@ -1,3 +1,5 @@
+package com.java.learn;
+
 public class StringEquals {
     public static void main(String[] args) {
         String s1 = "abc";

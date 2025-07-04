@@ -1,12 +1,11 @@
-package com.streams.lambda.example;
+package com.java.learn;
 
-import java.util.Comparator;
 import java.util.Map;
 import java.util.LinkedHashMap;
 import java.util.HashMap;
 import java.util.stream.Collectors;
 
-public class SortHashMap {
+public class SortHashMapUsingStream {
     public static void main(String[] args) {
         Map<String, Integer> map = new HashMap<>();
         map.put("Apple", 3);
