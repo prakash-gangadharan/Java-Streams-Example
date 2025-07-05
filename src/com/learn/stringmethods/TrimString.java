@@ -1,4 +1,4 @@
-package com.examples.stringhandling;
+package com.learn.stringmethods;
 
 //Trim String....
 class TrimString {
