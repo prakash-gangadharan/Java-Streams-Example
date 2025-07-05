@@ -1,4 +1,4 @@
-package com.examples.stringhandling;
+package com.learn.stringmethods;
 
 class StringTest {
 	public static void main(String args[]) {

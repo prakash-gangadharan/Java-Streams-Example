@@ -1,4 +1,4 @@
-package com.examples.stringhandling;
+package com.learn.stringmethods;
 
 /**
  *  Both equals() method and == operator is used to compare two objects in Java.
