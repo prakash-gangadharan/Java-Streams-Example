@@ -1,4 +1,4 @@
-package com.java.learn;
+package com.learn.java8;
 
 public class FindMinInArray {
     public static int min(int[] arr) {

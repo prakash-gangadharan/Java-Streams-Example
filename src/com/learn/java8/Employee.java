@@ -1,4 +1,4 @@
-package com.java.learn;
+package com.learn.java8;
 
 public class Employee implements Cloneable {
     public static void main(String[] args) throws CloneNotSupportedException {

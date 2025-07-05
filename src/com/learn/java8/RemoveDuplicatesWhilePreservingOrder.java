@@ -1,4 +1,4 @@
-package com.java.learn;
+package com.learn.java8;
 
 import java.util.*;
 import java.util.stream.*;

@@ -1,10 +1,9 @@
-package com.java.learn;
+package com.learn.java8;
 
 import java.util.stream.Collectors;
 import java.util.List;
 import java.util.Map;
 import java.util.Arrays;
-import java.util.function.Function;
 
 public class SumTransactionAmountsForEachDay {
     public static void main(String[] args) {

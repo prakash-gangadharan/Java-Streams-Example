@@ -1,4 +1,4 @@
-package com.java.learn;
+package com.learn.java8;
 
 public class StringEquals {
     public static void main(String[] args) {
